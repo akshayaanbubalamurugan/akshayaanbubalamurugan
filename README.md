@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Akshaya! 👋
 
-<!--
-**akshayaanbubalamurugan/akshayaanbubalamurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | CSE Student
+I am a passionate developer skilled in **Python** and **Java**, focused on building impactful projects and solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+- *AI & ML:* Generative AI (LLMs), Prompt Engineering, OpenAI API / LangChain
+- *Languages:* Python (Pandas, NumPy), Java
+- *Tools:* Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 📂 Featured AI Projects
+- *Gen AI Project*: [AI powered conversational chatbot]
+  - Built using Python and OpenAI/Gemini API.
+  - Features: [Implemented real time chat, and a clear chat function].
+- *Python Automation*: [Med X].
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/akshaya-a-7281882b6]
+- **Email:** [akshayaakshaya4094@gmail.com]
+-
